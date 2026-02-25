@@ -1,7 +1,6 @@
 
-- Hi, I’m @kalben22  
-- I’m interested in cybersecurity, network and system administration, programming, and network design.  
-- I’m currently learning CCNA, network and system administration, cybersecurity analysis, and improving my skills in developpment, C, and Docker.  
+- Hi, I’m @al0n3  
+- I’m interested in cybersecurity, network and system administration, network design, and programming.
 - I’m looking to collaborate on projects related to network security, system administration, penetration testing, and developing secure web applications.  
 - How to reach me: [bernardhoungbo2021@gmail.com]
 - Pronouns: He/Him  
